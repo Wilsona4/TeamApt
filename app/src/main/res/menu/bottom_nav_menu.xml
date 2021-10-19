@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/home_Fragment"
+        android:icon="@drawable/ic_round_home_24"
+        android:title="@string/home"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/mWallet"
+        android:icon="@drawable/ic_wallet_cash"
+        android:title="@string/wallet"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/mCards"
+        android:icon="@drawable/ic_credit_card_24"
+        android:title="@string/cards"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/mSettings"
+        android:icon="@drawable/ic_settings_24"
+        android:title="@string/settings"
+        app:showAsAction="ifRoom"/>
+
+
+
+</menu>

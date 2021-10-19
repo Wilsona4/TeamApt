@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WilsonTeamApt</string>
+    <string name="home">Home</string>
+    <string name="wallet">Wallet</string>
+    <string name="cards">Cards</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="julia_you_have_left">Julia, you have left</string>
+    <string name="withdraws">withdraws</string>
+    <string name="request">Request</string>
+    <string name="account_balance">Account balance</string>
+    <string name="total_amount_tv">&#x20A6; %1$s</string>
+    <string name="current_amount_tv">  %1$s &#x20A6;</string>
+    <string name="latest_actions">Latest actions</string>
+    <string name="my_goals">My goals</string>
+    <string name="alrighty">Alrighty!</string>
+    <string name="alaye_you_don_win_joor">Wakanda Forever....</string>
+    <string name="well_done_julia">Well done Wilson!</string>
+</resources>
